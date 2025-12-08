@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+
+**/.DS_Store
+
+build/
+dist/
+
+# Ignorar executáveis do Windows
+*.exe
+
+# Ignorar pacotes do macOS
+*.pkg
+
+# Ignorar PDF
+*.pdf
+
+# Ignorar Word
+*.docx
